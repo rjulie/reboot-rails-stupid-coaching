@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
+ body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+
+ h4, p {
+  color: #757575;
+ }
+
+ p {
+  font-style: italic;
+ }
+
+ #coach-answer {
+  background-color: cornsilk;
+ }
